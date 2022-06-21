@@ -1,11 +1,11 @@
 # Projeto TRIVIA
 
-## O que foi desenvolvido?
+## O que é?
 
 Um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ utilizando _React Hooks e Redux_.
 Projeto desenvolvido em dupla com [Alessandro Achtenberg](https://github.com/achtenberg16).
 
-# Habilidades Desenvolvidas:
+## Habilidades Desenvolvidas:
 
   - React Hooks
 
